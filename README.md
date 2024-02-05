@@ -21,4 +21,4 @@ Enhance the brightness of the images and videos to ensure optimal visibility eve
 ## other Team Memebers:
 [https://github.com/clawnic] DHRUV SHARMA
 
-[] GAYATRI DIXIT
+[https://github.com/gayatridixit2022] GAYATRI DIXIT
