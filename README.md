@@ -28,4 +28,5 @@ Enhance the brightness of the images and videos to ensure optimal visibility eve
 
 ## live links:
 https://safeframe-dehazing.streamlit.app/
+https://safeframe-brightening.streamlit.app/
 
