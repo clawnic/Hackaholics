@@ -21,4 +21,13 @@ Enhance the brightness of the images and videos to ensure optimal visibility eve
 ## other Team Memebers:
 [https://github.com/clawnic] DHRUV SHARMA
 
-[] GAYATRI DIXIT
+[https://github.com/gayatridixit2022] GAYATRI DIXIT
+
+## dataset used
+[https://drive.google.com/drive/folders/16ofzUgObzccsqOmG1n5QcPrku-9mqKs5]
+
+## live links:
+https://safeframe-dehazing.streamlit.app/
+https://safeframe-brightening.streamlit.app/
+https://safeframetools.streamlit.app/
+
